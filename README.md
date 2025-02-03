@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a personal productivity project
-- 🌱 I’m currently learning django
+- 🔭 I’m currently working on personal projects
+- 🌱 I’m currently learning NLP
