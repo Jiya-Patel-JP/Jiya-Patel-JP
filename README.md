@@ -1,4 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on personal projects
-- 🌱 I’m currently learning NLP
+- 🔭 working on personal projects
+- 🌱 learning NLP
+- 🔐 exploring cybersecurity and forensics
